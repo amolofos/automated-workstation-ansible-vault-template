@@ -1,0 +1,1 @@
+# automated-workstation-ansible-vault-template
